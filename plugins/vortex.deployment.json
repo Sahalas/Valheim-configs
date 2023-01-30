@@ -1,0 +1,161 @@
+{
+  "instance": "bd8293d1-5fce-4bd8-a5c4-7d20ca424fc4",
+  "version": 1,
+  "deploymentMethod": "symlink_activator",
+  "gameId": "valheim",
+  "deploymentTime": 1674989100199,
+  "stagingPath": "C:\\Users\\Rylin\\AppData\\Roaming\\Vortex\\valheim\\mods",
+  "targetPath": "B:\\SteamLibrary\\steamapps\\common\\Valheim\\BepInEx\\plugins",
+  "files": [
+    {
+      "relPath": "files\\adventuredata.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1672807113000
+    },
+    {
+      "relPath": "files\\iteminfo.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1672506429000
+    },
+    {
+      "relPath": "files\\enchantcosts.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1672849528000
+    },
+    {
+      "relPath": "files\\EpicLoot.dll",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1674395781000
+    },
+    {
+      "relPath": "files\\itemnames.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1620481740000
+    },
+    {
+      "relPath": "files\\loottables.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1672858309000
+    },
+    {
+      "relPath": "files\\magiceffects.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1672948658000
+    },
+    {
+      "relPath": "files\\materialconversions.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1672858309000
+    },
+    {
+      "relPath": "files\\legendaries.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1670806090000
+    },
+    {
+      "relPath": "files\\recipes.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1672524969000
+    },
+    {
+      "relPath": "files\\translations.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1673233479000
+    },
+    {
+      "relPath": "files\\abilities.json",
+      "source": "Epic Loot-387-0-9-8-1674396315",
+      "target": "",
+      "time": 1622170557000
+    },
+    {
+      "relPath": "Advize_PlantEverything.dll",
+      "source": "Plant Everything-1042-1-13-0-1673093801",
+      "target": "",
+      "time": 1673099646000
+    },
+    {
+      "relPath": "BetterArchery\\quiverassets",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "BetterArchery\\BetterArcheryRecipes.json",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "BetterArchery\\SFX\\exhale\\exhale_3.wav",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "BetterArchery\\BetterArchery.dll",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1673542931000
+    },
+    {
+      "relPath": "BetterArchery\\SFX\\inhale\\inhale_3.wav",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "BetterArchery\\SFX\\inhale\\inhale_2.wav",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "BetterArchery\\SFX\\inhale\\inhale_1.wav",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "BetterArchery\\SFX\\exhale\\exhale_2.wav",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "BetterArchery\\SFX\\exhale\\exhale_1.wav",
+      "source": "Better Archery-348-1-9-0-1673543288",
+      "target": "",
+      "time": 1651670006000
+    },
+    {
+      "relPath": "config\\Menthus.bepinex.plugins.BetterTrader.cfg",
+      "source": "Better Trader-433-2-2-7-1671656629",
+      "target": "",
+      "time": 1671656102000
+    },
+    {
+      "relPath": "BetterTrader\\BetterTrader.dll",
+      "source": "Better Trader-433-2-2-7-1671656629",
+      "target": "",
+      "time": 1671656216000
+    },
+    {
+      "relPath": "config\\Menthus.bepinex.plugins.BetterTrader.cfg.vanilla",
+      "source": "Better Trader-433-2-2-7-1671656629",
+      "target": "",
+      "time": 1671656126000
+    }
+  ]
+}
